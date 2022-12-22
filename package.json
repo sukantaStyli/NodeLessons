@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "console-log-colors": "^0.3.3"
+  },
+  "name": "nodepractice",
+  "version": "1.0.0",
+  "description": "node practice folder",
+  "main": "Index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sukanta",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "node practice"
+  },
+  "keywords": [
+    "node",
+    "code",
+    "tutorial"
+  ]
+}
